@@ -1,0 +1,12 @@
+.contact{
+    background-image: linear-gradient(rgb(36, 226, 251),rgb(115, 246, 63));
+    padding-top: 200px;
+    height: 600px;
+    box-shadow: 3px 5px 5px rgb(153, 152, 152);
+}
+h1{
+    font-size: 45px;
+}
+.contacts{
+    margin-top: 110px;
+}

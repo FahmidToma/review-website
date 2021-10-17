@@ -1,0 +1,34 @@
+.home{
+    background-image: linear-gradient(violet,rgb(44, 97, 243),pink);
+    margin-top: 60px;
+    padding-top: 160px;
+    padding-bottom: 150px;
+    height: 540px;
+    box-shadow: 2px 4px 6px rgb(190, 189, 189);
+}
+.home-text{
+    color: white;
+}
+button{
+    margin-top: 30px;
+}
+.popular-service{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.popular{
+    display: grid;
+    grid-template-columns: 1fr 1fr;  
+}
+.vote{
+    margin-top: 40px;
+    background-color: gainsboro;
+    border-radius: 10px;
+    height: 200px;
+    box-shadow: 3px 4px 6px gray;
+}
+.vote-text{
+    font-weight: 500;
+    font-size: 29px;
+    padding-top: 10px;
+}

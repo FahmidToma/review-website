@@ -1,0 +1,14 @@
+.services{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.Our-service{
+    margin-top: 50px;
+    padding-top: 90px;
+    background-image: url('./services.jpg');
+    background-size: cover;
+}
+h4{
+    color: black;
+    padding-bottom: 80px;
+}

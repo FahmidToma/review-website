@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Abstract Painting",
+    "price": 1000,
+    "cover": "http://www.residencestyle.com/wp-content/uploads/2020/11/abstract-painting.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Portrait Painting",
+    "price": 1300,
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYefzpGVr_5BYi0iA-PB93A9qihKtePWdP1g&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Landscape Painting",
+    "price": 1500,
+    "cover": "https://www.artmajeur.com/medias/standard/a/n/anna-lubchik/artwork/12229028_39c4f444-2580-49c5-aa94-fbe89aa48a52.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Oil painting",
+    "price": 700,
+    "cover": "https://images.unsplash.com/photo-1614189647266-8fbdad9c72de?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b2lsJTIwcGFpbnRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Watercolor painting",
+    "price": 500,
+    "cover": "https://www.artmajeur.com/medias/standard/o/l/olvakulin/artwork/11078860_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Black & White Painting",
+    "price": 900,
+    "cover": "https://5.imimg.com/data5/SELLER/Default/2020/9/JL/OU/QT/52786480/new-product-500x500.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Pastel Painting",
+    "price": 850,
+    "cover": "https://i.ytimg.com/vi/PziX2hXZ5bg/maxresdefault.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Acrylic Painting",
+    "price": 1050,
+    "cover": "https://i.ytimg.com/vi/taDMS-_W2fY/maxresdefault.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wall Painting",
+    "price": 499,
+    "cover": "https://www.bengalinteriors.com/wp-content/uploads/2020/03/4-7.jpg"
+  }
+]
