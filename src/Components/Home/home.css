@@ -1,5 +1,6 @@
 .home{
-    background-image: linear-gradient(violet,rgb(44, 97, 243),pink);
+    background-image: url('./home.jpg');
+    background-size: cover;
     margin-top: 60px;
     padding-top: 160px;
     padding-bottom: 150px;

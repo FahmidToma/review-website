@@ -10,7 +10,8 @@ const Footer= () =>{
     return(
         <div className='footer'>
             <h2>Follow Us</h2>
-            <p className="icons">{addIcon}      {<FontAwesomeIcon icon={faInstagram}/>}  <FontAwesomeIcon icon={faYoutube}/>  <FontAwesomeIcon icon={faTwitter}/></p>
+            <p className="icons">{addIcon} {<FontAwesomeIcon icon={faInstagram}/>}  <FontAwesomeIcon icon={faYoutube}/>  <FontAwesomeIcon icon={faTwitter}/></p>
+            <p className="copy-right">all rights reserved © PaintingPro</p>
 
         </div>
     );

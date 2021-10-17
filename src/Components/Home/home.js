@@ -24,7 +24,7 @@ const Home= () =>{
            <Link to='/services'><Button variant='dark'>Explore More</Button></Link>
         </div>
         <div className='popular-service'>
-            <h2 style={{color: 'blue'}}>Popular Services</h2>
+            <h2 style={{color: 'black'}}>Popular Services</h2>
             <div className='popular'>
                 {
                     popular.map( featured => <Featured
@@ -33,6 +33,7 @@ const Home= () =>{
 
                 }
             </div>
+            <Link to='/services'><Button variant='primary'>More</Button></Link>
         </div>
         <div className="vote">
             <p className='vote-text'>You can vote us here</p>
